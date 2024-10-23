@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-351%20hrs%208%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-332%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -31,5 +31,5 @@ Python                   2 repos             ███████████�
 
 
 
- Last Updated on 23/10/2024 16:59:03 UTC
+ Last Updated on 23/10/2024 17:21:50 UTC
 <!--END_SECTION:waka-->
